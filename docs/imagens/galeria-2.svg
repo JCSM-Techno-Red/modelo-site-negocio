@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Ilustração de navalha e pincel de barba">
+  <rect width="600" height="450" fill="#1c1915"/>
+  <circle cx="300" cy="225" r="170" fill="#2a241d"/>
+  <path d="M170 300 L400 150 L430 180 L200 330 Z" fill="#bdb3a4"/>
+  <path d="M400 150 L430 180 L450 165 L420 135 Z" fill="#d4a84b"/>
+  <rect x="150" y="296" width="70" height="30" rx="8" fill="#5b3b1d" transform="rotate(-34 185 311)"/>
+  <ellipse cx="440" cy="330" rx="46" ry="46" fill="#f4efe6" opacity="0.9"/>
+  <path d="M432 320 Q440 300 452 320" fill="none" stroke="#d4a84b" stroke-width="8" stroke-linecap="round"/>
+</svg>

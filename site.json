@@ -1,0 +1,112 @@
+{
+  "modoDemonstracao": true,
+  "negocio": {
+    "nome": "Barbearia Navalha",
+    "marca": "Navalha",
+    "inicial": "N",
+    "titulo": "Barbearia Navalha",
+    "descricao": "Demonstração fictícia de site para barbearia. Todos os dados são fictícios.",
+    "endereco": "Rua Exemplo, 123 - Bairro Fictício - Cidade Imaginária/XX (endereço fictício)",
+    "horarios": [
+      "Segunda a sexta: 09h às 19h",
+      "Sábado: 09h às 17h",
+      "Domingo: fechado"
+    ]
+  },
+  "tema": {
+    "fundo": "#0f0d0b",
+    "superficie": "#1c1915",
+    "texto": "#f4efe6",
+    "textoSecundario": "#bdb3a4",
+    "destaque": "#d4a84b",
+    "destaqueForte": "#e8c170",
+    "textoSobreDestaque": "#14110d",
+    "linha": "#3a3229"
+  },
+  "canais": {
+    "telefone": "",
+    "whatsapp": "",
+    "email": "",
+    "redes": [],
+    "avisoDemonstracao": "Demonstração: este botão não abre nenhuma conversa real. Para um site de verdade, o cliente informa o próprio número de WhatsApp."
+  },
+  "hero": {
+    "rotulo": "Barbearia · Demonstração fictícia",
+    "titulo": "Corte preciso, barba bem feita e atendimento sem pressa.",
+    "texto": "Um espaço pensado para quem valoriza cuidado, técnica e um bom papo. Este site é um modelo com dados fictícios.",
+    "botaoPrincipal": "Agendar um horário",
+    "botaoSecundario": "Ver serviços"
+  },
+  "secoes": {
+    "sobre": {
+      "ativa": true,
+      "rotulo": "Sobre",
+      "titulo": "Tradição no detalhe",
+      "paragrafos": [
+        "A Barbearia Navalha é um estabelecimento fictício criado apenas para demonstrar um site de barbearia. Nenhum cliente, profissional ou endereço aqui é real.",
+        "Na história fictícia, a casa nasceu da ideia de reunir técnica clássica, ferramentas bem cuidadas e um ambiente tranquilo."
+      ],
+      "destaques": [
+        { "titulo": "Atendimento", "texto": "com hora marcada" },
+        { "titulo": "Ferramentas", "texto": "esterilizadas a cada uso" },
+        { "titulo": "Equipe", "texto": "profissionais fictícios" }
+      ]
+    },
+    "servicos": {
+      "ativa": true,
+      "rotulo": "Serviços",
+      "titulo": "O que oferecemos",
+      "itens": [
+        { "nome": "Corte clássico", "descricao": "Tesoura e máquina, com acabamento na nuca e finalização com pente." },
+        { "nome": "Barba completa", "descricao": "Desenho da linha, toalha quente e hidratação com óleo de barba." },
+        { "nome": "Combo Navalha", "descricao": "Corte e barba no mesmo atendimento, com tempo estendido." },
+        { "nome": "Acabamento", "descricao": "Alinhamento de sobrancelha e revisão rápida entre atendimentos." }
+      ]
+    },
+    "precos": {
+      "ativa": true,
+      "rotulo": "Preços",
+      "titulo": "Valores de demonstração",
+      "aviso": "Valores fictícios, apenas para ilustrar a página de preços.",
+      "legenda": "Tabela de serviços e valores fictícios",
+      "colunas": ["Serviço", "Duração", "Valor (fictício)"],
+      "itens": [
+        { "nome": "Corte clássico", "duracao": "40 min", "valor": "R$ 00,00" },
+        { "nome": "Barba completa", "duracao": "30 min", "valor": "R$ 00,00" },
+        { "nome": "Combo Navalha", "duracao": "70 min", "valor": "R$ 00,00" },
+        { "nome": "Acabamento", "duracao": "15 min", "valor": "R$ 00,00" }
+      ]
+    },
+    "galeria": {
+      "ativa": true,
+      "rotulo": "Galeria",
+      "titulo": "Ilustrações de exemplo",
+      "aviso": "Imagens geradas para a demonstração, não são fotos de trabalhos reais.",
+      "itens": [
+        { "arquivo": "imagens/galeria-1.svg", "alt": "Ilustração de cadeira de barbeiro", "legenda": "Cadeira de atendimento" },
+        { "arquivo": "imagens/galeria-2.svg", "alt": "Ilustração de navalha e pincel de barba", "legenda": "Ferramentas" },
+        { "arquivo": "imagens/galeria-3.svg", "alt": "Ilustração de tesoura e pente", "legenda": "Corte e finalização" },
+        { "arquivo": "imagens/galeria-4.svg", "alt": "Ilustração de frasco de óleo para barba", "legenda": "Cuidados" }
+      ]
+    },
+    "localizacao": {
+      "ativa": true,
+      "rotulo": "Localização",
+      "titulo": "Onde ficamos",
+      "etiqueta": "Endereço fictício",
+      "tituloHorarios": "Horário de funcionamento (fictício)",
+      "mapa": {
+        "arquivo": "imagens/mapa.svg",
+        "alt": "Mapa ilustrativo fictício com a localização da barbearia",
+        "legenda": "Mapa ilustrativo, sem dados reais."
+      }
+    },
+    "contato": {
+      "ativa": true,
+      "rotulo": "Contato",
+      "titulo": "Pronto para o seu próximo corte?",
+      "texto": "Nesta demonstração, o botão abaixo apenas mostra um aviso. Ele não abre nenhuma conversa.",
+      "botao": "Falar pelo WhatsApp"
+    }
+  }
+}

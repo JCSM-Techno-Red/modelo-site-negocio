@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Ilustração de tesoura e pente">
+  <rect width="600" height="450" fill="#1c1915"/>
+  <g stroke="#d4a84b" stroke-width="10" stroke-linecap="round" fill="none">
+    <circle cx="230" cy="310" r="42"/>
+    <circle cx="370" cy="310" r="42"/>
+    <line x1="250" y1="280" x2="330" y2="120"/>
+    <line x1="350" y1="280" x2="270" y2="120"/>
+  </g>
+  <rect x="400" y="110" width="150" height="26" rx="6" fill="#bdb3a4"/>
+  <g fill="#bdb3a4">
+    <rect x="400" y="136" width="8" height="34"/>
+    <rect x="420" y="136" width="8" height="34"/>
+    <rect x="440" y="136" width="8" height="34"/>
+    <rect x="460" y="136" width="8" height="34"/>
+    <rect x="480" y="136" width="8" height="34"/>
+    <rect x="500" y="136" width="8" height="34"/>
+    <rect x="520" y="136" width="8" height="34"/>
+    <rect x="540" y="136" width="8" height="34"/>
+  </g>
+  <rect x="60" y="360" width="480" height="8" rx="4" fill="#2a241d"/>
+</svg>

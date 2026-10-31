@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Mapa ilustrativo fictício">
+  <rect width="600" height="450" fill="#1c1915"/>
+  <g stroke="#3a3229" stroke-width="18" fill="none">
+    <path d="M0 120 H600"/>
+    <path d="M0 330 H600"/>
+    <path d="M150 0 V450"/>
+    <path d="M430 0 V450"/>
+  </g>
+  <path d="M0 220 Q300 180 600 240" stroke="#2f5d7a" stroke-width="26" fill="none" opacity="0.55"/>
+  <path d="M300 205 C300 160 250 150 250 120 C250 96 270 80 300 80 C330 80 350 96 350 120 C350 150 300 160 300 205 Z" fill="#d4a84b"/>
+  <circle cx="300" cy="120" r="12" fill="#14110d"/>
+  <text x="300" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#bdb3a4">Mapa fictício</text>
+</svg>
