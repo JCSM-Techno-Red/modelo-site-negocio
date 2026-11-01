@@ -4,7 +4,7 @@ Este modelo gera um site estático (HTML, CSS, JavaScript mínimo e imagens) a p
 
 ## Pré-requisitos
 
-- Node.js instalado (versão 18 ou superior; testado com 26). Não é preciso instalar nenhum pacote.
+- Node.js instalado. Testado somente com a versão 26. Versões anteriores não foram verificadas. Não é preciso instalar nenhum pacote.
 - Um navegador para conferir o resultado.
 - Conta gratuita no GitHub, somente na hora de publicar.
 
